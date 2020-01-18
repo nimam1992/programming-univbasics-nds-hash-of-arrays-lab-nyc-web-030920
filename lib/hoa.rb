@@ -12,4 +12,5 @@ def add_character(show, name)
     :jetsons => ["George", "Jane", "Judy", "Elroy"]
   }
   BASE_HOA[show]<<name
+  BASE_HOA
 end
